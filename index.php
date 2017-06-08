@@ -2,7 +2,7 @@
 $url = 'https://api.line.me/v2/oauth/accessToken';
 $data = array(
     'grant_type' => 'authorization_code',
-    'code' => 'j0jy3kfwKOKSWrXYs6Cn',
+    'code' => 'mRt39nuMZZHdS60GLHwt',
     'client_id' => '1518868862',
     'client_secret' => 'e917bfe93dfcaac2ec636d38c1ac9b42',
     'redirect_uri' => 'https://linebotoki.herokuapp.com/'	
