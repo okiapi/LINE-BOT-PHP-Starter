@@ -1,7 +1,7 @@
 <?
 $url = 'https://api.line.me/v2/profile';
 $data = array(
-    'Authorization' => 'Bearer {lExPegIfEn52CQaozHfqfX4HJErjh3QSP78ZLzrIkTem7GTlpCzVEpqzlqMiii/79vlbR1qYo6XS3ohQ/MnvCn+OnE7y4m/ySchNTMZpBaVxROCmWAVNlUphWRDaHv5fHDpav9FnldsW9WUJrkqxllyJkyQKxupqlZ5I0qCNTE8=}'
+    'Authorization' => 'Bearer{5OYWAG9qUIO9pG/ML5YiTcvERAkj4D4ApN0+zkdDZ+unN2i7dhcjjhhgGjTNcQLd9vlbR1qYo6XS3ohQ/MnvCn+OnE7y4m/ySchNTMZpBaUQzpz8VQDDPOWIqxOdkrwqqSFxzL7KeHALb6oVq4i7UFyJkyQKxupqlZ5I0qCNTE8=}'
 );
 
 // use key 'http' even if you send the request to https://...
