@@ -11,7 +11,7 @@ $jsonData = array(
     'code' => 'j0jy3kfwKOKSWrXYs6Cn',
     'client_id' => '1518868862',
     'client_secret' => 'e917bfe93dfcaac2ec636d38c1ac9b42',
-    'redirect_uri' => 'http://192.168.11.207/linelogin/line.php'	
+    'redirect_uri' => 'https://linebotoki.herokuapp.com/'	
 );
 
 //Encode the array into JSON.
