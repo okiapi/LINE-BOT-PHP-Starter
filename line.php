@@ -52,6 +52,4 @@ function getProfile(){
 $obj = json_decode(getToken($_GET['code']),true);
 $token = $obj['access_token'];
 $obj_profile = json_decode(getProfile(),true);
-echo $obj_profile['displayName']
-echo $obj_profile['mid']
 ?>
