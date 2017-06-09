@@ -18,7 +18,7 @@ function loadDoc() {
   };
   xhttp.open("POST", "https://api.line.me/v1/oauth/accessToken", true);
   xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-  xhttp.send("grant_type=authorization_code&client_id=1518868862&client_secret=e917bfe93dfcaac2ec636d38c1ac9b42&code=ySkI9sEYf9gZqewjZsqm&redirect_uri=ttps://linebotoki.herokuapp.com/");
+  xhttp.send("grant_type=authorization_code&client_id=1518868862&client_secret=e917bfe93dfcaac2ec636d38c1ac9b42&code=ySkI9sEYf9gZqewjZsqm&redirect_uri=https://linebotoki.herokuapp.com/");
 }
 </script>
 
