@@ -1,6 +1,6 @@
 <?
-$client_id = "1518868862";
-$client_secret = "e917bfe93dfcaac2ec636d38c1ac9b42";
+$client_id = "";
+$client_secret = "";
 $redirect_uri = "https://linebotoki.herokuapp.com/line.php";
 $token = "";
 
